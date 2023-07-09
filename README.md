@@ -16,8 +16,8 @@
 <p align="center">
   <p align="center">
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8022F5&style=flat">&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1?label=Tecnologias&message=3&color=A8A60C&style=flat">&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/daniel-guimaraes-vieira/"><img src="https://img.shields.io/static/v1?label=feito%20por&message=Daniel&color=4B00A8&style=flat"></a>
+  <img src="https://img.shields.io/static/v1?label=technologies&message=3&color=A8A60C&style=flat">&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/daniel-guimaraes-vieira/"><img src="https://img.shields.io/static/v1?label=made%20by&message=Daniel&color=4B00A8&style=flat"></a>
 </p>
 
 <br>
