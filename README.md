@@ -47,12 +47,16 @@
 &nbsp;
 
 <h2>
-  🎥 application video
+  🎥 Application video
 </h2>
 
 &nbsp;
 
-<video src="https://www.awesomescreenshot.com/video/18979504?key=d4082f1ee84d54fba6a9de9c4ff36c6a" width="300px"></video>
+
+
+https://github.com/Daniel-Guimaraes/ToDo-List/assets/102679381/2e7a5f10-9b93-4231-96d3-4939e906a623
+
+
 
 &nbsp;
 
