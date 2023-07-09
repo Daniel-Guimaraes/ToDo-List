@@ -70,14 +70,14 @@ This project was developed with the following technologies:
 <br />
 
 ## 💻 Project
-ToDo List é uma aplicação de controle de tarefas no estilo **to-do list**, que contém as seguintes funcionalidades:
+ToDo List is a to-do list-style task tracking application that contains the following features:
 
-- Adicionar uma nova tarefa
-- Marcar e desmarcar uma tarefa como concluída
-- Remover uma tarefa da listagem
-- Mostrar o progresso de conclusão das tarefas
+- Add a new task;
+- Marking and Unmarking a Task Completed;
+- Remove a task from the list;
+- Show task completion progress;
 
-Para acessar o site [clique aqui](https://tasks-list-to-do.netlify.app/)
+To access the website [Click here](https://tasks-list-to-do.netlify.app/)
 
 <br/>
 
