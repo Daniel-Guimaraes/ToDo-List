@@ -16,7 +16,7 @@
 <p align="center">
   <p align="center">
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8022F5&style=flat">&nbsp;&nbsp;
-  <img src="https://img.shields.io/static/v1?label=Tecnologias&message=6&color=A8A60C&style=flat">&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?label=Tecnologias&message=3&color=A8A60C&style=flat">&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/daniel-guimaraes-vieira/"><img src="https://img.shields.io/static/v1?label=feito%20por&message=Daniel&color=4B00A8&style=flat"></a>
 </p>
 
@@ -26,7 +26,6 @@
    💻 desktop
 </h2>
 
----
 &nbsp;
 
 <div align="center">
@@ -39,7 +38,6 @@
    📱 Mobile
 </h2>
 
---- 
 &nbsp;
 
 <div align="center">
@@ -52,12 +50,9 @@
   🎥 application video
 </h2>
 
-----
 &nbsp;
 
-<video>
-  <source src="https://www.awesomescreenshot.com/video/18979504?key=d4082f1ee84d54fba6a9de9c4ff36c6a"/>
-</video>
+<video src="https://www.awesomescreenshot.com/video/18979504?key=d4082f1ee84d54fba6a9de9c4ff36c6a" width="300px"></video>
 
 &nbsp;
 
