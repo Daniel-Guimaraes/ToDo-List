@@ -77,6 +77,8 @@ ToDo List é uma aplicação de controle de tarefas no estilo **to-do list**, qu
 - Remover uma tarefa da listagem
 - Mostrar o progresso de conclusão das tarefas
 
+Para acessar o site [clique aqui](https://tasks-list-to-do.netlify.app/)
+
 <br/>
 
 ## 🔖 Layout
